@@ -1,5 +1,5 @@
 import Flutter
-import NidThirdPartyLogin
+import NaverThirdPartyLogin
 import SafariServices
 import UIKit
 
