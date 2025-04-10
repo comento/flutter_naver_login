@@ -16,7 +16,7 @@ A new Flutter plugin project.
   s.source_files = 'Classes/**/*'
   s.dependency 'Flutter'
 
-  s.dependency 'naveridlogin-sdk-ios-swift', '~> 5.0.1'
+  s.dependency 'NidThirdPartyLogin', '~> 5.0.1'
   # s.ios.deployment_target = '8.0'
 
   s.platform = :ios, '12.0'
